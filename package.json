@@ -1,0 +1,44 @@
+{
+    "name": "extremetj-java-projects",
+    "displayName": "extremetj-java-projects",
+    "description": "Extensões essenciais para projetos Java",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "shengchen.vscode-checkstyle",
+        "vscjava.vscode-java-debug",
+        "redhat.java",
+        "vscjava.vscode-maven",
+        "oracle.oracledevtools",
+        "vscjava.vscode-java-dependency",
+        "redhat.vscode-rsp-ui",
+        "redhat.vscode-server-connector",
+        "SonarSource.sonarlint-vscode",
+        "vscjava.vscode-java-test"
+    ],
+    "publisher": "felipebrito-tech",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#0273D4",
+        "theme": "dark"
+    },
+    "keywords": [
+        "java",
+        "maven",
+        "oracle",
+        "redhat",
+        "red hat"
+    ],
+    "repository": {
+        "url": "https://github.com/felipebrito-tech/extremetj-java-projects"
+    },
+    "homepage": "https://github.com/felipebrito-tech/extremetj-java-projects",
+    "bugs": {
+        "url": "https://github.com/felipebrito-tech/extremetj-java-projects/issues"
+    }
+}
