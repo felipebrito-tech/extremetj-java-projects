@@ -18,7 +18,6 @@
         "vscjava.vscode-java-dependency",
         "redhat.vscode-rsp-ui",
         "redhat.vscode-server-connector",
-        "SonarSource.sonarlint-vscode",
         "vscjava.vscode-java-test"
     ],
     "publisher": "felipebrito-tech",
